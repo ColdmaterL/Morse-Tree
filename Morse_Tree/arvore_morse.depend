@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621934332 source:c:\users\lucas\documents\programaçao\programas c\arvore_morse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
